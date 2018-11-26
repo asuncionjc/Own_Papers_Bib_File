@@ -1,10 +1,8 @@
 # Own_Papers_Bib_file
 
-Bibtex file including all the papers where I appear as author.
-mujer
-Unicode: U+1F469 U+1F3FC, UTF-8: F0 9F 91 A9 F0 9F 8F BC.
+Bibtex file including all the papers where I appear as author .
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/BibTeX_logo.svg/1280px-BibTeX_logo.svg.png"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/BibTeX_logo.svg/1280px-BibTeX_logo.svg.png" height="150" width="500"/>
 
 ## Goals
 
@@ -25,7 +23,7 @@ This table contains all the research items included in this repository.
 
 | # | Name  | Type | Resources |
 | - | ----- | -----| --------- |
-| 1 | | A Global Optimization method for Model Selection in Chemical Reaction Networks | Article |[A Global Optimization method for Model Selection in Chemical Reaction Networks](https://www.sciencedirect.com/science/article/pii/S0098135416301740) |
+| 1 | A Global Optimization method for Model Selection in Chemical Reaction Networks | Article |[A Global Optimization method for Model Selection in Chemical Reaction Networks](https://www.sciencedirect.com/science/article/pii/S0098135416301740) |
  
 Developed by
 ------------
