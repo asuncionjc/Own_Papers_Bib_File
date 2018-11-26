@@ -19,7 +19,7 @@ write in the repo, I will be happy to answer you by email at asuncionjc@us.es ðŸ
 
 ## Content
 
-This table contains all the research items included in the bib file of this repository.
+This table contains all the research items included in the [bib](./asuncionjc_author_bib_file.tex) file of this repository.
 
 | # | Name  | Type | Resources |
 | - | ----- | -----| --------- |
