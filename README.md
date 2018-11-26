@@ -19,11 +19,16 @@ write in the repo, I will be happy to answer you by email at asuncionjc@us.es ðŸ
 
 ## Content
 
-This table contains all the research items included in this repository.
+This table contains all the research items included in the bib file of this repository.
 
 | # | Name  | Type | Resources |
 | - | ----- | -----| --------- |
-| 1 | A Global Optimization method for Model Selection in Chemical Reaction Networks | Article |[A Global Optimization method for Model Selection in Chemical Reaction Networks](https://www.sciencedirect.com/science/article/pii/S0098135416301740) |
+| 1 | A Global Optimization Method for Model Selection in Chemical Reaction Networks | Article |[A Global Optimization method for Model Selection in Chemical Reaction Networks](https://www.sciencedirect.com/science/article/pii/S0098135416301740) |
+| 2 | On Extreme Concentrations in Chemical Reactions Networks with Incomplete Measurements | Article |[On Extreme Concentrations in Chemical Reactions Networks with Incomplete Measurements](https://pubs.acs.org/doi/abs/10.1021/acs.iecr.6b00714) |
+| 3 | Functional-bandwidth Kernel for Support Vector Machine with Functional Data: an Alternating Optimization Algorithm | Article |[Functional-bandwidth Kernel for Support Vector Machine with Functional Data: an Alternating Optimization Algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0377221718309494) |
+| 4 | Variable Selection in Classification for Multivariate Functional Data | Working Paper |[Variable Selection in Classification for Multivariate Functional Data](https://www.researchgate.net/publication/321400055_Variable_Selection_in_Classification_for_Multivariate_Functional_Data) |
+| 5 | Automatic Feature Scaling and Selection for Support Vector Machine Classification with Functional Data | Working Paper |[Automatic Feature Scaling and Selection for Support Vector Machine Classification with Functional Data](https://www.researchgate.net/publication/323428879_Automatic_Feature_Scaling_and_Selection_for_Support_Vector_Machine_Classification_with_Functional_Data) |
+| 6 | Variable Selection with Support Vector Regression for Multivariate Functional Data | Working Paper |[Variable Selection with Support Vector Regression for Multivariate Functional Data](https://www.researchgate.net/publication/327552293_Variable_Selection_with_Support_Vector_Regression_for_Multivariate_Functional_Data) |
  
 Developed by
 ------------
