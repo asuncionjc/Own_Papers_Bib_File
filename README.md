@@ -26,7 +26,7 @@ This table contains all the research items included in the [bib](./asuncionjc_au
 | 1 | A Global Optimization Method for Model Selection in Chemical Reaction Networks | Article |[A Global Optimization method for Model Selection in Chemical Reaction Networks](https://www.sciencedirect.com/science/article/pii/S0098135416301740) |
 | 2 | On Extreme Concentrations in Chemical Reactions Networks with Incomplete Measurements | Article |[On Extreme Concentrations in Chemical Reactions Networks with Incomplete Measurements](https://pubs.acs.org/doi/abs/10.1021/acs.iecr.6b00714) |
 | 3 | Functional-bandwidth Kernel for Support Vector Machine with Functional Data: an Alternating Optimization Algorithm | Article |[Functional-bandwidth Kernel for Support Vector Machine with Functional Data: an Alternating Optimization Algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0377221718309494) |
-| 4 | Variable Selection in Classification for Multivariate Functional Data | Working Paper |[Variable Selection in Classification for Multivariate Functional Data](https://www.researchgate.net/publication/321400055_Variable_Selection_in_Classification_for_Multivariate_Functional_Data) |
+| 4 | Variable Selection in Classification for Multivariate Functional Data | Article |[Variable Selection in Classification for Multivariate Functional Data](https://www.sciencedirect.com/science/article/pii/S0020025518310107) |
 | 5 | Automatic Feature Scaling and Selection for Support Vector Machine Classification with Functional Data | Working Paper |[Automatic Feature Scaling and Selection for Support Vector Machine Classification with Functional Data](https://www.researchgate.net/publication/323428879_Automatic_Feature_Scaling_and_Selection_for_Support_Vector_Machine_Classification_with_Functional_Data) |
 | 6 | Variable Selection with Support Vector Regression for Multivariate Functional Data | Working Paper |[Variable Selection with Support Vector Regression for Multivariate Functional Data](https://www.researchgate.net/publication/327552293_Variable_Selection_with_Support_Vector_Regression_for_Multivariate_Functional_Data) |
  
@@ -37,6 +37,9 @@ Developed by
 
 <a href="https://www.researchgate.net/profile/Asuncion_Jimenez-Cordero">
   <img alt="Follow me on ResearchGate" src="https://1.bp.blogspot.com/-jz1remm4weY/WK86heRgepI/AAAAAAAACrU/APGaq-EpMakpsh-mZw5eQIyNpA_DN1dBwCLcB/s1600/researchgate_.jpg" height="60" width="60"/>
+</a>
+<a href="https://scholar.google.es/citations?user=JegcEYwAAAAJ&hl=es&oi=ao">
+  <img alt="Follow me on Google Scholar" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQUfpGKX9zs9WpaNw_qSqwU3Q3qeqLrIV0cXHsJxxgPkVaVqze" height="60" width="60"/>
 </a>
 
 License
