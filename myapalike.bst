@@ -757,7 +757,7 @@ FUNCTION {phdthesis}
   new.block
   format.btitle "title" output.check
   new.block
-  "Unpublished doctoral dissertation" format.thesis.type output.nonnull
+  "PhD dissertation" format.thesis.type output.nonnull
   school "school" output.check
   address output
   new.block
