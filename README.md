@@ -29,6 +29,7 @@ This table contains all the research items included in the [bib](./asuncionjc_au
 | 4 | Variable Selection in Classification for Multivariate Functional Data | Article |[Variable Selection in Classification for Multivariate Functional Data](https://www.sciencedirect.com/science/article/pii/S0020025518310107) |
 | 5 | Automatic Feature Scaling and Selection for Support Vector Machine Classification with Functional Data | Working Paper |[Automatic Feature Scaling and Selection for Support Vector Machine Classification with Functional Data](https://www.researchgate.net/publication/323428879_Automatic_Feature_Scaling_and_Selection_for_Support_Vector_Machine_Classification_with_Functional_Data) |
 | 6 | Variable Selection with Support Vector Regression for Multivariate Functional Data | Working Paper |[Variable Selection with Support Vector Regression for Multivariate Functional Data](https://www.researchgate.net/publication/327552293_Variable_Selection_with_Support_Vector_Regression_for_Multivariate_Functional_Data) |
+| 7 | Classification and Regression with Functional Data. A Mathematical Optimization Approach | PhD Dissertation |[Classification and Regression with Functional Data. A Mathematical Optimization Approach](https://idus.us.es/xmlui/handle/11441/83268) |
  
 Developed by
 ------------
