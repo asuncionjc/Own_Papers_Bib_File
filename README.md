@@ -15,11 +15,11 @@ Unfortunately, I cannot help you with all your bibliography items 😢. However,
  you are interested in, and add to your own bib file. 
  
  Any feedback is welcome, 😄 so please feel free to ask or comment anything you want. If you are shy 😳 and do not want to
-write in the repo, I will be happy to answer you by email at asuncionjc@us.es 👩🏻‍💻 .
+write in the repo, I will be happy to answer you by email at asuncionjc@uma.es 👩🏻‍💻 .
 
 ## Content
 
-This table contains all the research items included in the [bib](./asuncionjc_author_bib_file.tex) file of this repository.
+This table contains all the research items included in the [bib](./asuncionjc_author_bib_file.bib) file of this repository.
 
 | # | Name  | Type | Resources |
 | - | ----- | -----| --------- |
@@ -30,11 +30,12 @@ This table contains all the research items included in the [bib](./asuncionjc_au
 | 5 | Automatic Feature Scaling and Selection for Support Vector Machine Classification with Functional Data | Working Paper |[Automatic Feature Scaling and Selection for Support Vector Machine Classification with Functional Data](https://www.researchgate.net/publication/323428879_Automatic_Feature_Scaling_and_Selection_for_Support_Vector_Machine_Classification_with_Functional_Data) |
 | 6 | Variable Selection with Support Vector Regression for Multivariate Functional Data | Working Paper |[Variable Selection with Support Vector Regression for Multivariate Functional Data](https://www.researchgate.net/publication/327552293_Variable_Selection_with_Support_Vector_Regression_for_Multivariate_Functional_Data) |
 | 7 | Classification and Regression with Functional Data. A Mathematical Optimization Approach | PhD Dissertation |[Classification and Regression with Functional Data. A Mathematical Optimization Approach](https://idus.us.es/xmlui/handle/11441/83268) |
- 
+| 8 | Data-Driven Network Reduction for Transmission-Constrained Unit Commitment | Working Paper |[Data-Driven Network Reduction for Transmission-Constrained Unit Commitment](https://www.researchgate.net/publication/334390057_Data-driven_Network_Reduction_for_Transmission-Constrained_Unit_Commitment) |
+
 Developed by
 ------------
 
-* Asunción Jiménez-Cordero - <asuncionjc@us.es>
+* Asunción Jiménez-Cordero - <asuncionjc@uma.es>
 
 <a href="https://www.researchgate.net/profile/Asuncion_Jimenez-Cordero">
   <img alt="Follow me on ResearchGate" src="https://1.bp.blogspot.com/-jz1remm4weY/WK86heRgepI/AAAAAAAACrU/APGaq-EpMakpsh-mZw5eQIyNpA_DN1dBwCLcB/s1600/researchgate_.jpg" height="60" width="60"/>
