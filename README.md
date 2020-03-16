@@ -30,7 +30,7 @@ This table contains all the research items included in the [bib](./asuncionjc_au
 | 5 | Automatic Feature Scaling and Selection for Support Vector Machine Classification with Functional Data | Working Paper |[Automatic Feature Scaling and Selection for Support Vector Machine Classification with Functional Data](https://www.researchgate.net/publication/323428879_Automatic_Feature_Scaling_and_Selection_for_Support_Vector_Machine_Classification_with_Functional_Data) |
 | 6 | Selection of Time Instants and Intervals with Support Vector Regression for Multivariate Functional Data | Working Paper |[Selection of Time Instants and Intervals with Support Vector Regression for Multivariate Functional Data](https://www.researchgate.net/publication/327552293_Selection_of_Time_Instants_and_Intervals_with_Support_Vector_Regression_for_Multivariate_Functional_Data) |
 | 7 | Classification and Regression with Functional Data. A Mathematical Optimization Approach | PhD Dissertation |[Classification and Regression with Functional Data. A Mathematical Optimization Approach](https://www.educacion.gob.es/teseo/mostrarRef.do?ref=1730643) |
-| 8 | Data-Driven Screening of Network Constraints | Working Paper |[Data-Driven Screening of Network Constraints](https://www.researchgate.net/publication/334390057_Data-driven_Screening_of_Network_Constraints) |
+| 8 | Data-Driven Screening of Network Constraints for Unit Commitment | Article |[Data-Driven Screening of Network Constraints for Unit Commitment](https://ieeexplore.ieee.org/document/9034123) |
 
 Developed by
 ------------
