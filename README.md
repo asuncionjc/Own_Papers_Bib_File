@@ -31,7 +31,7 @@ This table contains all the research items included in the [bib](./asuncionjc_au
 | 6 | Selection of Time Instants and Intervals with Support Vector Regression for Multivariate Functional Data | Article |[Selection of Time Instants and Intervals with Support Vector Regression for Multivariate Functional Data](https://www.sciencedirect.com/science/article/pii/S0305054820301672) |
 | 7 | Classification and Regression with Functional Data. A Mathematical Optimization Approach | PhD Dissertation |[Classification and Regression with Functional Data. A Mathematical Optimization Approach](https://www.educacion.gob.es/teseo/mostrarRef.do?ref=1730643) |
 | 8 | Data-Driven Screening of Network Constraints for Unit Commitment | Article |[Data-Driven Screening of Network Constraints for Unit Commitment](https://ieeexplore.ieee.org/document/9034123) |
-| 9 | A novel embedded min-max approach for feature selection in nonlinear Support Vector Machine classification | Working Paper |[A novel embedded min-max approach for feature selection in nonlinear Support Vector Machine classification](https://www.researchgate.net/publication/340826631_A_novel_embedded_min-max_approach_for_feature_selection_in_nonlinear_Support_Vector_Machine_classification) |
+| 9 | A novel embedded min-max approach for feature selection in nonlinear Support Vector Machine classification | Article |[A novel embedded min-max approach for feature selection in nonlinear Support Vector Machine classification](https://www.sciencedirect.com/science/article/pii/S0377221720310195) |
 
 
 Developed by
