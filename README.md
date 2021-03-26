@@ -32,6 +32,7 @@ This table contains all the research items included in the [bib](./asuncionjc_au
 | 7 | Classification and Regression with Functional Data. A Mathematical Optimization Approach | PhD Dissertation |[Classification and Regression with Functional Data. A Mathematical Optimization Approach](https://www.educacion.gob.es/teseo/mostrarRef.do?ref=1730643) |
 | 8 | Data-Driven Screening of Network Constraints for Unit Commitment | Article |[Data-Driven Screening of Network Constraints for Unit Commitment](https://ieeexplore.ieee.org/document/9034123) |
 | 9 | A novel embedded min-max approach for feature selection in nonlinear Support Vector Machine classification | Article |[A novel embedded min-max approach for feature selection in nonlinear Support Vector Machine classification](https://www.sciencedirect.com/science/article/pii/S0377221720310195) |
+| 10 | Offline constraint screening for online mixed-integer optimization | Working paper |[Offline constraint screening for online mixed-integer optimization](https://www.researchgate.net/publication/350371853_Offline_constraint_screening_for_online_mixed-integer_optimization/stats) |
 
 
 Developed by
