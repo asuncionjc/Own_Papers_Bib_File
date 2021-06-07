@@ -33,6 +33,7 @@ This table contains all the research items included in the [bib](./asuncionjc_au
 | 8 | Data-Driven Screening of Network Constraints for Unit Commitment | Article |[Data-Driven Screening of Network Constraints for Unit Commitment](https://ieeexplore.ieee.org/document/9034123) |
 | 9 | A novel embedded min-max approach for feature selection in nonlinear Support Vector Machine classification | Article |[A novel embedded min-max approach for feature selection in nonlinear Support Vector Machine classification](https://www.sciencedirect.com/science/article/pii/S0377221720310195) |
 | 10 | Offline constraint screening for online mixed-integer optimization | Working paper |[Offline constraint screening for online mixed-integer optimization](https://www.researchgate.net/publication/350371853_Offline_constraint_screening_for_online_mixed-integer_optimization/stats) |
+| 11 | Cost-driven Screening of Network Constraints for the Unit Commitment Problem | Working paper |[Cost-driven Screening of Network Constraints for the Unit Commitment Problem](https://www.researchgate.net/publication/351108538_Cost-driven_Screening_of_Network_Constraints_for_the_Unit_Commitment_Problem) |
 
 
 Developed by
