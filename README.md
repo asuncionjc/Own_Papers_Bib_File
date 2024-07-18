@@ -33,8 +33,9 @@ This table contains all the research items included in the [bib](./asuncionjc_au
 | 8 | Data-Driven Screening of Network Constraints for Unit Commitment | Article |[Data-Driven Screening of Network Constraints for Unit Commitment](https://ieeexplore.ieee.org/document/9034123) |
 | 9 | A novel embedded min-max approach for feature selection in nonlinear Support Vector Machine classification | Article |[A novel embedded min-max approach for feature selection in nonlinear Support Vector Machine classification](https://www.sciencedirect.com/science/article/pii/S0377221720310195) |
 | 10 | Cost-driven Screening of Network Constraints for the Unit Commitment Problem | Article |[Cost-driven Screening of Network Constraints for the Unit Commitment Problem](https://ieeexplore.ieee.org/document/9736690) |
-| 11 | Warm-starting constraint generation for mixed-integer optimization: A Machine Learning approach | Article |[Warm-starting constraint generation for mixed-integer optimization: A Machine Learning approach](https://www.researchgate.net/publication/350371853_Warm-starting_constraint_generation_for_mixed-integer_optimization_A_Machine_Learning_approach) |
-
+| 11 | Warm-starting constraint generation for mixed-integer optimization: A Machine Learning approach | Article |[Warm-starting constraint generation for mixed-integer optimization: A Machine Learning approach](https://www.sciencedirect.com/science/article/pii/S0950705122007894) |
+| 12 | Learning-assisted optimization for transmission switching  | Article |[Learning-assisted optimization for transmission switching ](https://link.springer.com/article/10.1007/s11750-024-00672-0) |
+| 13 | A Variable Neighborhood Search approach for solving the Rank Pricing Problem  | Working paper |[A Variable Neighborhood Search approach for solving the Rank Pricing Problem](https://www.researchgate.net/publication/380895098_A_Variable_Neighborhood_Search_approach_for_solving_the_Rank_Pricing_Problem) |
 
 Developed by
 ------------
